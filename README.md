@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shardulbhot
+- 👋 Hi, I’m Shardul
 - 👀 I’m interested in Web Development & Game Development 
 - 🌱 I’m currently learning MEAN Stack
 - 💞️ I’m looking to collaborate on any Web development projects
